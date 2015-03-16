@@ -2,7 +2,7 @@
 # ofxSparkFunPulse
 * Updated - Mar 16 2015 - Tatsuya Kida（kidapu）
 
-This addon is a wrapper around the SparkFun Pulse Sensor [Pulse Sensor](https://www.sparkfun.com/products/11574).
+This addon is a wrapper around the SparkFun [Pulse Sensor](https://www.sparkfun.com/products/11574) (SEN-11574).
 
 It is Mac only.
 
